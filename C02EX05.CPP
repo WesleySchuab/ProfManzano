@@ -7,10 +7,11 @@ int main (void)
     char nome[50];
     setlocale(LC_ALL, "Portuguese_Brazil.1252");
     cin.getline(nome, 50);
-    cout << "Olá. \nQual sua graça ?";
+    cout << "OlÃ¡. \nQual sua graÃ§a ?";
 
 
     cout <<"Tecle <enter> para encerrar..."<<endl;
     cin.get();
     return 0;
 }
+

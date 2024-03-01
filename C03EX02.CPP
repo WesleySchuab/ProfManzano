@@ -15,7 +15,7 @@ int main(void){
 
 
 
-    if(int r = r = a + b; r > 10)
+    if(int r = a + b; r > 10)
         cout << "Resultado = " << r << endl << endl;
     cout << "Tecle <Enter> para encerrar...";
     cin.get();

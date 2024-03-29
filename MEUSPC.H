@@ -5,7 +5,9 @@
 
 using namespace std;
 
+//descrição
 //Verifica se a blibioteca já esta carregada ná memoria 
+
 #ifndef __MEUSPC_H
 #define __MEUSPC_H
 

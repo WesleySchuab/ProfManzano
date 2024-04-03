@@ -8,6 +8,7 @@ int main(void)
 {
 
   int idade = 25;
+  // O valor zero se refere a um endereço de memória nulo
   int *pidade = 0;
 
   pidade = &idade;

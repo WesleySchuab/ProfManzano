@@ -22,6 +22,7 @@ tipo * nome;
 int * valor; // Não é muito usado
 int* valor;
 int *valor;
+O ponteiro tem tipo de dado porque o * aponta para o 1° bit de memória do endereço de uma váriavel, o tipo de dado vai indicar o ultimo bit do endereço
 
 
 Para executar um programa que depende de outro no windows:

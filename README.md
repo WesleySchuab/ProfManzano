@@ -25,6 +25,12 @@ int *valor;
 O ponteiro tem tipo de dado porque o * aponta para o 1° bit de memória do endereço de uma váriavel, o tipo de dado vai indicar o ultimo bit do endereço.
 Uma das vantagens do ponteiro que é o programa não precisa gerenciar o endereço de memória e vai direto par ao valor tornando o processamento mais rápido
 
+Tipos de variáveis
+Convencionais
+Simples e compostas } Dados
+* Variaveis Ponteiro } Endereço de memória
+  Precisa ser inicialoizado sempre aponta par aum endereço que pode ser null, 0;
+
 
 Para executar um programa que depende de outro no windows:
 1 Acessar cmd 

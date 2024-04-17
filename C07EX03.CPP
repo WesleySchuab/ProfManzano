@@ -28,6 +28,7 @@ int main(void)
     }
 
   // Processamento par ou impar
+  // validação de valores
 
   for (i = 0; i <= 4; ++i)
     if (a[i] % 2 != 0)

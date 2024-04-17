@@ -26,6 +26,7 @@ int main(void)
     }
 
   // Processamento par ou impar
+  // Validação de indice
 
   for (i = 0; i <= 9; ++i)
     if (i % 2 == 0)

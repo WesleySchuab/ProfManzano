@@ -21,5 +21,5 @@ int main(void)
   cout << endl;
   cout << "Tecle <Enter> para encerrar... ";
   cin.get();
-  return 0;
+  
 }

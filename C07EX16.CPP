@@ -35,6 +35,7 @@ int main(void)
       for (int j = 0; j <= 3; ++j)
         {
           cout << setw(2) << j + 1 << "a. nota: ";
+          // função que aceita espaço
           cin.getline(entranota, sizeof(entranota));
           aluno[i].notas[j] = atof(entranota);
         }

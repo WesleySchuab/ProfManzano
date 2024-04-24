@@ -6,6 +6,7 @@
 
 using namespace std;
 
+// Registro
 struct CadastroAluno
 {
   char nome[41];

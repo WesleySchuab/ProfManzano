@@ -36,3 +36,8 @@ Para executar um programa que depende de outro no windows:
 1 Acessar cmd 
 2 Digitar g++ nome_do_programa1 nome_do_programa2 -o nome_que_o_executavel_vai_receber
 3 Exemplo : g++ C05EX15.CPP C05EX14.CPP -o cebola
+
+*************************
+Anotação 
+Toda cadeia de caracter termina com 
+'\0' então é precisar adicionar uma posição a mais na hora de reservar memória

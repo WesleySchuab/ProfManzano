@@ -41,3 +41,13 @@ Para executar um programa que depende de outro no windows:
 Anotação 
 Toda cadeia de caracter termina com 
 '\0' então é precisar adicionar uma posição a mais na hora de reservar memória
+
+02/05/2024
+POO
+Tipos dados
+  Primitivos : int, float, double, string
+  Derivados : typoff, struct, union
+A classe é da programação orientada a objeto é semelhante a estrutura de dados. Os atributos por padrão na POO são privados e na linguagem C++ por padrão os campos da estruct são publicos.
+O nome mais correto para os atributos na POO é * Campos membros*
+Os campos de uma classe são substantivos.
+Os métodos tambem possui um nome mais correto chamado subrotinas membros

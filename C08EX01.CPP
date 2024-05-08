@@ -15,6 +15,7 @@ class Aluno
     float PoeMedia(void);
 } aluno;
 
+// Declaração de subrotina fora da classe
 float Aluno::PoeMedia(void)
 {
   media = 0;

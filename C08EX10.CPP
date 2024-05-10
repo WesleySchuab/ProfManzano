@@ -10,6 +10,7 @@ class Funcionario
     string nome;
     double salario;
 
+// Essa é uma forma mais moderna de fazer o construtor
   public:
     Funcionario(const string &nome, double salario)
       : nome(nome), salario(salario) {}

@@ -56,5 +56,11 @@ Os campos membros deve ser substantivos
 
 09/05/2024
 Tipos de dados privados não são passados por herança, apenas protegido e publico
+
+Construtor aceita paramentro somente por valor
+O uso de construtor elimina nescessidade um ou mais settters
+
+
+
 Construtor aceita paramentro somente por valor
 O uso de construtor elimina nescessidade um ou mais settters

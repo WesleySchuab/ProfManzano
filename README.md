@@ -51,3 +51,6 @@ A classe é da programação orientada a objeto é semelhante a estrutura de dad
 O nome mais correto para os atributos na POO é * Campos membros*
 Os campos de uma classe são substantivos.
 Os métodos tambem possui um nome mais correto chamado subrotinas membros
+
+09/05/2024
+Tipos de dados privados não são passados por herança, apenas protegido e publico

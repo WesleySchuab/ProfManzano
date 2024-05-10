@@ -14,7 +14,7 @@ class Funcionario
   public:
     Funcionario(const string &nome, double salario)
       : nome(nome), salario(salario) {}
-
+    // Calcular salário é virtual porque vai sofrer polimorfismo
     virtual void calcularSalario(void)
     {
       cout << "Salario de " << nome;
@@ -32,7 +32,7 @@ class Gerente : public Funcionario
   public:
     Gerente(const string &nome, double salario, double bonus)
       : Funcionario(nome, salario), bonus(bonus) {}
-
+    //A função calcular salário esta sendo sobrescrita 
     void calcularSalario(void) override
     {
       double salarioTotal = salario + bonus;

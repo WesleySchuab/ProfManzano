@@ -64,3 +64,5 @@ O uso de construtor elimina nescessidade um ou mais settters
 
 Construtor aceita paramentro somente por valor
 O uso de construtor elimina nescessidade um ou mais settters
+
+Publico e protegido passa por herança privado não

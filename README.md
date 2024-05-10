@@ -66,3 +66,4 @@ Construtor aceita paramentro somente por valor
 O uso de construtor elimina nescessidade um ou mais settters
 
 Publico e protegido passa por herança privado não
+Poliformismo de sobrecarga a quantidade de argumentos e o tipo determina qual subrotina será chamada

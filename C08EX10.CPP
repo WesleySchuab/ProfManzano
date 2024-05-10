@@ -43,7 +43,7 @@ class Gerente : public Funcionario
 
 int main(void)
 {
-
+// Aqui fica explicito o uso de ponteiro
   Funcionario* func1 = new Funcionario("Alice", 4000.0);
   Funcionario* func2 = new Gerente("Bob", 6000.0, 2000.0);
 

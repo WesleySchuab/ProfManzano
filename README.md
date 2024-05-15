@@ -67,4 +67,8 @@ O uso de construtor elimina nescessidade um ou mais settters
 
 Publico e protegido passa por herança privado não
 Poliformismo de sobrecarga a quantidade de argumentos e o tipo determina qual subrotina será chamada
-O programa 13 mostra a criação de um objeto usando uma biblioteca externa
+O programa 13 mostra a criação de um objeto usando uma biblioteca externa.
+
+15/05/2024
+Cap 10 do livro c++ 
+Aula sobre arquivos. 

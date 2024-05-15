@@ -70,7 +70,8 @@ Poliformismo de sobrecarga a quantidade de argumentos e o tipo determina qual su
 O programa 13 mostra a criação de um objeto usando uma biblioteca externa.
 
 15/05/2024
-Cap 10 do livro c++ 
+Cap 9 do livro c++ 
 Aula sobre arquivos. 
 Quem faz a conexão ou caminho com arquivo é a linguagem. Arquivo tem entrada e saída mas não tem processamento.
 Quando se abre o arquivo é para ler ou escrever e realizado a tarefa se fecha o arquivo.
+Oracle e PostegresQL são para grande porte.

@@ -9,8 +9,9 @@ int main(void)
 {
 
   char caractere;
+  //ios::in in de input que é leitura 
   ifstream arqtxt("EXEMPLO1.TXT", ios::in);
-
+// Enquanto não for o fim do arquivo leia caracter por caracter
   while (not (arqtxt.eof() == true))
     {
        caractere = arqtxt.get();

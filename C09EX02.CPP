@@ -10,6 +10,7 @@ int main(void)
 {
 
   string mensagem;
+  // app = apend acrescenta algo sem apagar
   ofstream arqtxt("EXEMPLO1.TXT", ios::app);
 
   cout << "Informe uma mensagem" << endl;
@@ -17,6 +18,7 @@ int main(void)
 
   getline(cin, mensagem);
 
+// caso aqui usassemos cout << mostraria a mensagem na tela 
   arqtxt << mensagem << endl;
 
   arqtxt.close();

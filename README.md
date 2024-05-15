@@ -75,3 +75,4 @@ Aula sobre arquivos.
 Quem faz a conexão ou caminho com arquivo é a linguagem. Arquivo tem entrada e saída mas não tem processamento.
 Quando se abre o arquivo é para ler ou escrever e realizado a tarefa se fecha o arquivo.
 Oracle e PostegresQL são para grande porte.
+Os arquivos podem ser texto ou binário, texto grava de 8 em 8 bit binário grava bit a bit.

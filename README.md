@@ -77,3 +77,6 @@ Quando se abre o arquivo é para ler ou escrever e realizado a tarefa se fecha o
 Oracle e PostegresQL são para grande porte.
 Os arquivos podem ser texto ou binário, texto grava de 8 em 8 bit binário grava bit a bit.
 Sempre feche os arquivos depois de usar ou pode perder os dados permanetemente.
+
+16/05/2024
+Aula sobre arquivos Binários

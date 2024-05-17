@@ -20,7 +20,8 @@ int main(void)
       cin >> num[i];
       cin.ignore(80, '\n');
     }
-
+// sizeof(num) Quantidade de bits a ser gravado.
+// *>(num) Ponteiro marca o inicio de será gravado siseof calcula onde será o final
   arqbin.write(reinterpret_cast<char*>(num), sizeof(num));
 
   arqbin.close();

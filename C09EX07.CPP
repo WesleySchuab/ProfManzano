@@ -27,6 +27,7 @@ int main(void)
 
   arqbin.write(reinterpret_cast<char*>(anum), sizeof(anum));
 
+// posicionando o ponteiro do arquivo no ponto inicial 
   arqbin.seekp(0, ios::beg);
 
   // Leitura do arquivo e apresentacao dos dados

@@ -16,7 +16,7 @@ int main(void)
 
   cout << "Entrada de valores" << endl;
   cout << endl;
-
+// Tratamento de possiveis erros
   if (not (arqbin.is_open() == true))
     {
       cerr << "Erro ao abrir o arquivo." << endl;

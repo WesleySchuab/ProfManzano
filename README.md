@@ -80,4 +80,7 @@ Sempre feche os arquivos depois de usar ou pode perder os dados permanetemente.
 
 16/05/2024
 Aula sobre arquivos Binários
-23/05/24 Continuação da aula sobre arquivos binários.
+23/05/24
+Continuação da aula sobre arquivos binários.
+quando for gravar um texto em binário primeiro verifica o tamanho do texto 
+

@@ -22,8 +22,8 @@ char Data::ultimoDiaNoMes(void) const
     return (anoBissexto()) ? 29 : 28;
   else if (mes <= JULHO) // Quando houve as alterações realizadas pelo imperador que quebrou a lógica de Mês impar ser impar
     return (mes % 2 != 0) ? 31 : 30;
-  else
-    return (mes % 2 != 0) ? 30 : 31;
+  else 
+    return (mes % 2 != 0) ? 30 : 31; // Aqui a lógica foi invertida mês impar termina em par
 }
 
 void Data::validaData(void)

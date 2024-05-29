@@ -20,7 +20,7 @@ char Data::ultimoDiaNoMes(void) const
 {
   if (mes == FEVEREIRO)
     return (anoBissexto()) ? 29 : 28;
-  else if (mes <= JULHO)
+  else if (mes <= JULHO) // Quando houve as alterações realizadas pelo imperador que quebrou a lógica de Mês impar ser impar
     return (mes % 2 != 0) ? 31 : 30;
   else
     return (mes % 2 != 0) ? 30 : 31;

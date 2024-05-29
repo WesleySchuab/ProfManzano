@@ -84,3 +84,6 @@ Aula sobre arquivos Binários
 Continuação da aula sobre arquivos binários.
 quando for gravar um texto em binário primeiro verifica o tamanho do texto 
 
+29/05/24
+Aula sobre Datas e Calendário 
+

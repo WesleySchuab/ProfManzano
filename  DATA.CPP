@@ -10,6 +10,7 @@ bool Data::anoBissexto() const
 {
   return
   (
+    //Classe lógica não precisa escrever if na condição 
     (ano % 400 == 0) or
     (ano % 4 == 0 and ano % 100 != 0)
   );

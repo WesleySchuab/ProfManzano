@@ -50,7 +50,7 @@ void Data::alteraData(short dia, short mes, short ano) {
 void Data::mostraData(void) const {
   if (dataOk == true)
     {
-      std::cout.fill('0');
+      std::cout.fill('0');// acrescenta o zero quando for inserido um,a data 1/6/2024 por exemplo
       std::cout.width(2); std::cout << dia << '/';
       std::cout.width(2); std::cout << mes << '/';
       std::cout.width(4); std::cout << ano << std::endl;

@@ -5,7 +5,8 @@ int main (void){
     int x, y;
     x=10; y = ++x;
     cout << "\nX = " << x << "| Y = " << y << endl;
-
+// Nesse ponto a impressão que passa é que a var  y irá receber  o valor 11 porem ele recebe o valor de x antes de ser incrementado 
+// A o executar o programa verificamos que o y permanece com 10 e o x com 11
     x = 10; y=x++;
     cout << "\nX = " << x << "| Y = " << y << endl;
 

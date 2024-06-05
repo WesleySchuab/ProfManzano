@@ -92,5 +92,5 @@ O mês de julho é em homenagem a o imperador Juliano e ganhou um dia a mais que
 
 05/06/24 Quarta-Feira
 Dia Juliano
-
+Para que fosse possivel calcular as datas foi criado um dia denominado dia 1 e não possui data negativa nem dia 0.
 

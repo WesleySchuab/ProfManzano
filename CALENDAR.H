@@ -6,6 +6,7 @@
 #include <cmath>
 
 //Definicao de tipos personalizados
+//Abreviação do tipo dado para facilitar a digitação
 typedef unsigned long int ulInt;
 
 template <typename NovoTipo, typename TipoAntigo>

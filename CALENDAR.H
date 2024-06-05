@@ -18,10 +18,10 @@ NovoTipo casting(TipoAntigo base)
 // Funcionalidades operacionais
 bool dataValidaFormato(const std::string &data)
 {
-  if (data.length() != 10)
+  if (data.length() != 10)//numero de digitos que deve ter uma data
     return false;
 
-  if (data[2] != '/' or data[5] != '/')
+  if (data[2] != '/' or data[5] != '/')//posição que devem estar as barras
     return false;
 
   for (int i = 0; i <= 9; i++) {
@@ -36,7 +36,7 @@ bool dataValidaFormato(const std::string &data)
 
 short pegaDia(std::string dt)
 {
-  return std::stoi(dt.substr(0, 2));
+  return std::stoi(dt.substr(0, 2)); // da posição zero pega dois que serão os dias
 }
 
 short pegaMes(std::string dt)
@@ -46,7 +46,7 @@ short pegaMes(std::string dt)
 
 short pegaAno(std::string dt)
 {
-  return std::stoi(dt.substr(6, 4));
+  return std::stoi(dt.substr(6, 4)); // da posição 6 pega 4 ou seja o ano
 }
 
 bool anoBissexto(std::string dt)

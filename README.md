@@ -90,3 +90,7 @@ O ano tem 365, 25 dias por isso a cada 4 ano tem o ano bissexto.
 Calendário Juliano foi corrigido em 05/10/1582 nasce o calendário Gregoriano.
 O mês de julho é em homenagem a o imperador Juliano e ganhou um dia a mais que foi tirado de fevereiro, assim como Agosto.
 
+05/06/24 Quarta-Feira
+Dia Juliano
+
+

@@ -21,7 +21,7 @@ const string meses[] = {
   "dezembro"
 };
 
-int main(int argc, char *argv[])
+int main(int argc, char *argv[])//Nesse momento que recebemos o parametro quando o programa é executado 
 {
   short dia, mes, ano;
   string data;

@@ -87,6 +87,8 @@ quando for gravar um texto em binário primeiro verifica o tamanho do texto
 29/05/24
 Aula sobre Datas e Calendário.
 O ano tem 365, 25 dias por isso a cada 4 ano tem o ano bissexto. 
+06/06/24
+Aula sobre string
 Calendário Juliano foi corrigido em 05/10/1582 nasce o calendário Gregoriano.
 O mês de julho é em homenagem a o imperador Juliano e ganhou um dia a mais que foi tirado de fevereiro, assim como Agosto.
 

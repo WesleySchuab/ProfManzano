@@ -9,6 +9,7 @@ int main (void)
 {
   string value[4];
   string name[3], x;
+  string *px = &x;
 
    // for(int i = 0; i <= 1; i++)
       //{
@@ -22,11 +23,11 @@ int main (void)
     for(int i = 1; i <= 3; i++){
       for(int j =2; j <= 3; j++){
               if(value[i] > value[j]) {
-                      x = value[i];
+                        *px = value[i];
                       value[i] = value[j];
-                      value[j] = x; 
+                      value[j] = *px; 
               }
-              
+
     }
   }
 

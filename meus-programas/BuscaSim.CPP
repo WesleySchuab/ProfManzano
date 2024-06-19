@@ -15,13 +15,13 @@ int main (void)
       //{
          cout << "Digite o nome do produto " << setw(2) <<1 <<": " ;        
          getline(cin, name[1]);
-        for(int j = 1; j <= 3; j++){
+        for(int j = 1; j <= 3; ++j){
             cout << "Digite o preço do produto " << setw(2) <<j <<": "; getline(cin, value[j]);
           }
      // }
 
-    for(int i = 1; i <= 3; i++){
-      for(int j =2; j <= 3; j++){
+    for(int i = 1; i <= 3; ++i){
+      for(int j =2; j <= 3; ++j){
               if(value[i] > value[j]) {
                         *px = value[i];
                       value[i] = value[j];

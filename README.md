@@ -1,9 +1,45 @@
-# ProfManzano
-Repositório para aulas do professor Augusto Manzano
-Link fontes do original
-https://github.com/J-AugustoManzano/livro_cpp20_Windows/blob/main/Fontes/
+# Aulas de C++ com o Professor Augusto Manzano - IFSP
 
-Stack (Puilha)
+## Sobre este repositório
+Este repositório contém todo o material didático das aulas de programação C++ ministradas pelo professor Augusto Manzano no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
+
+## Conteúdo
+O conteúdo abrange desde os conceitos mais básicos da linguagem C++, como o tradicional "Olá, mundo!", até tópicos avançados, como:
+
+* **Fundamentos:**
+  * Sintaxe básica
+  * Variáveis e tipos de dados
+  * Operadores
+  * Estruturas de controle (if, else, for, while)
+* **Estruturas de dados:**
+  * Vetores
+  * Matrizes
+  * Listas ligadas
+* **Ponteiros e alocação de memória:**
+  * Conceito de ponteiro
+  * Operadores de endereçamento
+  * Alocação dinâmica de memória
+* **Arquivos:**
+  * Manipulação de arquivos texto e binários
+* **Programação orientada a objetos:**
+  * Classes e objetos
+  * Herança
+  * Polimorfismo
+  * Encapsulamento
+* **Entrada e saída de dados:**
+  * Manipulação de streams
+  * Formatação de saída
+
+## Como utilizar este repositório
+1. Clone o repositório: Use o comando git clone https://docs.github.com/pt para criar uma cópia local dos arquivos.
+2. Escolha um compilador: Plataformas como Replit e CodeSandbox oferecem ambientes de desenvolvimento online gratuitos.
+3. Carregue o código: Importe os arquivos do repositório para o compilador e execute-os.
+
+Link para o repositório do professor
+
+[!Manzano](https://github.com/J-AugustoManzano/livro_cpp20_Windows/blob/main/Fontes/)
+
+Stack (Pilha)
 Váriaveis locais } estáticas
 quem cria é o programador
 
